@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "5fc275488af47698",
+    "type": "split",
+    "children": [
+      {
+        "id": "446b5a722fbc14c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847baefb58dea9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разработка Backend Java/Рассказ о себе.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рассказ о себе"
+            }
+          },
+          {
+            "id": "7b54710f6232b055",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 8.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 8"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b79cffe15c2ca68",
+    "type": "split",
+    "children": [
+      {
+        "id": "6030392de61354c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f089c3678939e53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f2f5c56dcc1ebfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "transactional out",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b55ef84f23ee753",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469.5
+  },
+  "right": {
+    "id": "a9b58f8acd9c6478",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9629acfb67f93dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5cfb3841cdb3070",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Разработка Backend Java/Теория/MessageBrokers/Kafka/Синхронная Kafka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Синхронная Kafka"
+            }
+          },
+          {
+            "id": "564b6df5bdbaea5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4d3df69ecb2317e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dd723d49ad1b68e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b900625f6993f9b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 543.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "847baefb58dea9e5",
+  "lastOpenFiles": [
+    "Untitled 8.base",
+    "Разработка Backend Java/Теория/Java/CGLib/CGLib.md",
+    "Разработка Backend Java/Теория/Мониторинг и логирование/Мониторинг Spring Boot приложения.md",
+    "Разработка Backend Java/Теория/Мониторинг и логирование/Prometheus.md",
+    "Разработка Backend Java/Теория/Мониторинг и логирование/Grafana.md",
+    "Разработка Backend Java/Теория/Мониторинг и логирование/ELK.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы/GraphQL.md",
+    "Разработка Backend Java/Теория/Сети/Уровни сети.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы",
+    "Разработка Backend Java/Теория/Сети/Untitled.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы/VebSockets.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы/UPD.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы/RPC.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы/HTTPS.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы/HTTP.md",
+    "Разработка Backend Java/Теория/Сети/Протоколы/NTP (network time protocol).md",
+    "Разработка Backend Java/Теория/Микросервисы/Паттерны отказоустойчивости.md",
+    "Разработка Backend Java/Теория/Микросервисы/Шаблоны/TransactionalOutbox.md",
+    "Разработка Backend Java/Теория/Микросервисы/Шаблоны/CQRS & Mediator.md",
+    "Разработка Backend Java/Теория/Всякое/SOLID.md",
+    "Разработка Backend Java/Теория/Всякое/Hadoop.md",
+    "Разработка Backend Java/Теория/Всякое/DDD.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/База/Параллелизм.md",
+    "Разработка Backend Java/Теория/Testing",
+    "Разработка Backend Java/Теория/Untitled.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/База/Volatile.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/База/Happens-before.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Потокобезопасные коллекции.md",
+    "Pasted image 20260121202731.png",
+    "Разработка Backend Java/Гайды",
+    "Разработка Backend Java/SoftSkills",
+    "Разработка Backend Java/Теория/Мониторинг и логирование",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/ThreadSafe",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/List/Untitled",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Set",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Map",
+    "Pasted image 20251026164215.png",
+    "Pasted image 20251026163509.png",
+    "Pasted image 20251026154920.png",
+    "Pasted image 20251026145223.png",
+    "Pasted image 20251026144854.png",
+    "Pasted image 20251024162757.png",
+    "Pasted image 20251021160148.png",
+    "Pasted image 20251021160119.png",
+    "Pasted image 20251021155910.png",
+    "Разработка Backend Java/Теория/Java/RoadMap.canvas"
+  ]
+}
