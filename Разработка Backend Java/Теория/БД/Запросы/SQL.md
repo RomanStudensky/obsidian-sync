@@ -1,14 +1,14 @@
 
 **DDL** (Data Definition Language) – для определения структуры данных.
 
-Команды: CREATE, ALTER, DROP, TRUNCATE, RENAME.
+Команды: *CREATE, ALTER, DROP, TRUNCATE, RENAME*.
 
-Пример: 
+Пример:
 ``` sql
 CREATE TABLE employees (id INT, name VARCHAR(100));
 ```
 
-**DML** (Data Manipulation Language) — для манипуляции данными.
+**DML** (*Data Manipulation Language*) — для манипуляции данными.
 
 Команды: SELECT, INSERT, UPDATE, DELETE, MERGE.
 
