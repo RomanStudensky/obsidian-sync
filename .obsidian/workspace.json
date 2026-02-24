@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "446b5a722fbc14c8",
+        "id": "d981e30a4d74fcad",
         "type": "tabs",
         "children": [
           {
-            "id": "847baefb58dea9e5",
+            "id": "dacad6784a141e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Синхронизация/Semaphore.md",
+                "file": "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Map/HashMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaphore"
-            }
-          },
-          {
-            "id": "7b54710f6232b055",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 8.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 8"
+              "title": "HashMap"
             }
           }
         ]
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 535.5
   },
   "right": {
     "id": "a9b58f8acd9c6478",
@@ -177,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 543.5,
+    "width": 346.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,44 +179,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "847baefb58dea9e5",
+  "active": "dacad6784a141e13",
   "lastOpenFiles": [
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Синхронизация/Exchanger.md",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Map/LinkedHashMap.md",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Map/SortedMap.md",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Map/TreeMap.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Потокобезопасные коллекции.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/JavaUtilConcurent.md",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/ThreadSafe/CopyOnWriteArrayList.md",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/ThreadSafe/ConcurrentHashMap.md",
+    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Collections.md",
     "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Синхронизация/Semaphore.md",
     "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Синхронизация/ReentrantLock.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/Synchronized.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Синхронизация",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Синхронизация/Exchanger.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Основные инструменты/Синхронизации и блокировки.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/База/Многопоточность и Параллелизм.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/База/Состояния потоков.md",
     "Разработка Backend Java/Теория/Java/Multithreading/База/Процесс, поток.md",
-    "Разработка Backend Java/Теория/Java/Core/CollectionFramework/Map/SortedMap.md",
-    "Разработка Backend Java/SpringData/Transactional.md",
-    "Разработка Backend Java/SpringData",
+    "Разработка Backend Java/Теория/Java/Multithreading/База/Потокобезопасность.md",
     "Разработка Backend Java/Теория/Java/Multithreading/База/Классы/Атомики.md",
     "Разработка Backend Java/Теория/Java/Multithreading/База/Классы/ThreadLocal.md",
     "Разработка Backend Java/Теория/Java/Multithreading/База/Классы/Thread.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Основные инструменты/Синхронизации и блокировки.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Основные инструменты/Пулы потоков.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Основные инструменты/ForkJoinPool.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/Состояния потоков.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/Потокобезопасность.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/Многопоточность и Параллелизм.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/Классы",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/База.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/Volatile.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/База/Happens-before.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads/VirtualThreads.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads/ScopedValues.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads/ProjectLoom.md",
     "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads/Pinning.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Потокобезопасные коллекции.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads/ScopedValues.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads/VirtualThreads.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Основные инструменты/ForkJoinPool.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Основные инструменты/Пулы потоков.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/Assinc/Corrutines.md",
+    "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads/ProjectLoom.md",
+    "Разработка Backend Java/Теория/Java/Core/JVM/Диагностика",
+    "Разработка Backend Java/Теория/Java/Core/Sintax",
+    "Untitled 8.base",
+    "java-developer-roadmap.png",
+    "Разработка Backend Java/Теория/БД/PostgreSQL",
+    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Синхронизация",
+    "Разработка Backend Java/SpringData",
+    "Разработка Backend Java/Теория/Java/Multithreading/База/Классы",
     "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/Основные инструменты",
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent/JavaUtilConcurent.md",
-    "Разработка Backend Java/Теория/Java/Multithreading/Assinc/WebFlux.md",
     "Разработка Backend Java/Теория/Java/Multithreading/База",
     "Разработка Backend Java/Теория/Java/Multithreading/VirtualThreads",
-    "Разработка Backend Java/Теория/Java/Multithreading/Java Util Concurrent",
-    "Разработка Backend Java/Теория/Java/Multithreading/Assinc",
-    "Разработка Backend Java/Теория/Java/Multithreading",
-    "Разработка Backend Java/Multithreading/Java Util Concurrent/Основные инструменты",
     "Pasted image 20260121202731.png",
     "Pasted image 20251026164215.png",
     "Pasted image 20251026163509.png",
@@ -239,7 +227,6 @@
     "Pasted image 20251024162757.png",
     "Pasted image 20251021160148.png",
     "Pasted image 20251021160119.png",
-    "Pasted image 20251021155910.png",
     "Разработка Backend Java/Теория/Java/RoadMap.canvas"
   ]
 }
